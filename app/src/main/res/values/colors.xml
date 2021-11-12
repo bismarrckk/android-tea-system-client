@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="green">#008000</color>
+    <color name="forest_green">#228B22</color>
+    <color name="black">#3c3c3c</color>
+    <color name="bloackOriginal">#000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="lightGreen">#c2f5c2</color>
+    <color name="hintGreen">#75c275</color>
+    <color name="lightgrayspliter"> #ebebeb </color>
+    <color name="grayishOutline"> #bbbbbb </color>
+    <color name="grayishRecyclerSplitter">#e3e3e3</color>
+</resources>

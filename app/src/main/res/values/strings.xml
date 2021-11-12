@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">TeaSystem</string>
+    <string name="TMS">Tea Farm Management System</string>
+    <string name="email">Email Address</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="login">Login</string>
+    <string name="newUser">Don\'t have an account?</string>
+    <string name="here">Sign up here</string>
+    <string name="accountName">Account Name</string>
+    <string name="fullName">Full Name</string>
+    <string name="contactPerson">Contact Person</string>
+    <string name="contactPhone">Phone Number</string>
+    <string name="Proceed">Create Account</string>
+    <string name="Proceed2">Create Admin Profile</string>
+    <string name="step1">Step 1</string>
+    <string name="step2">Step 2</string>
+    <string name="welcome">Welcome back,</string>
+    <string name="dailySummary">Daily Summary</string>
+    <string name="dailyKgs">Daily KGs</string>
+    <string name="todo">TODO</string>
+    <string name="salary">Salary</string>
+    <string name="advance">Advance</string>
+    <string name="employees">Employees</string>
+    <string name="users">Users</string>
+    <string name="companies">Companies</string>
+    <string name="growersSummary">Growers Summary</string>
+    <string name="title_activity_user">UserActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="todo1">TODO</string>
+    <string name="todo2">TODO</string>
+</resources>
